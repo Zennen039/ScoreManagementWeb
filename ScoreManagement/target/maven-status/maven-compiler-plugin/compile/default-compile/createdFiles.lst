@@ -1,0 +1,6 @@
+com\nva\configs\ThymeleafConfig.class
+com\nva\configs\DispatcherServletInit.class
+com\nva\configs\WebAppContextConfigs.class
+com\nva\scoremanagement\JakartaRestConfiguration.class
+com\nva\scoremanagement\resources\JakartaEE11Resource.class
+com\nva\controllers\IndexController.class
